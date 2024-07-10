@@ -1,0 +1,80 @@
+body{
+  background-image:url("https://cdn.glitch.global/2b627cb1-c421-438a-902a-58d2bad2aaf6/shutterstock_509908468.png?v=1700477197509");
+background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-size:cover;
+  height:80%;
+}
+nav{
+  padding:0;
+  margin:0;
+  
+}
+ul li{
+  list-style:none;
+  text-decoration:none;
+  font-size:30px;
+  padding:10px;
+  
+}
+nav ul{
+  float:right;
+ 
+}
+a{
+  text-decoration:none;
+   display:inline-block;
+  
+}
+/* ul li a{
+  list-style:none;
+  
+  color:red;
+  padding:9px;
+  font-size:30px;
+  margin-top:40px;
+  
+}
+ */
+.button1{
+background-color: skyblue;
+color:black;
+font-size:20px;
+border:none;
+border-radius:20px;
+box-shadow:0 9px grey;  
+  margin-bottom:300px;
+
+}
+.button1:active{
+  background-color:green;
+  transform:translateY(4px); box-shadow:0 3px black;
+}
+.text1{
+  margin-top:200px;
+}
+
+.text{
+  text-transform:uppercase;
+  font-size:30px;
+  font-family:Impact;
+}
+.row1{
+  background-color:skyblue;
+}
+.col2{
+  padding:20px;
+}
+.approch{
+  font-size:50px;
+}
+.img{
+  float:left;
+  margin-left:px;
+}
+img{
+  width:200px;
+}
+.col1{
+  padding:30px;
+}
